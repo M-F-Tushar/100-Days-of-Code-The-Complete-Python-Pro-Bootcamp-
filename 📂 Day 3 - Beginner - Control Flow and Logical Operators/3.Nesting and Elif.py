@@ -1,7 +1,6 @@
 print("Welcome to the rolllercoaster!")
 height = int(input("what is your height is cm?"))
 
-
 if height >= 120:
     print("You can ride the rollercoaster")
     age = int(input("What is your age?"))
