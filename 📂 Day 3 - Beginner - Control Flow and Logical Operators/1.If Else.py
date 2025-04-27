@@ -1,6 +1,5 @@
 
 print("Welcome to the rolllercoaster!")
-
 height = int(input("what is your height is cm?"))
 
 
