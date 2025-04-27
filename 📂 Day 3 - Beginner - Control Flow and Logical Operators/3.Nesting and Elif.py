@@ -8,6 +8,7 @@ if height >= 120:
     
     if age <= 12:
         print("Please pay $5.")
+        
     elif age <= 18:
         print("please Pay $7.")
     else:
